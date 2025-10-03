@@ -1,0 +1,14 @@
+{
+  "model": "TFIDF + LogisticRegression",
+  "accuracy": 0.9919857524487978,
+  "precision_macro": 0.9920085320066482,
+  "recall_macro": 0.9919841623360555,
+  "f1_macro": 0.9919880211109587,
+  "labels": [
+    "Forums",
+    "Promotions",
+    "Social",
+    "Spam",
+    "Updates"
+  ]
+}

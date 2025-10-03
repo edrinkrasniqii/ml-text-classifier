@@ -1,0 +1,16 @@
+{
+  "kept": [
+    "Promotions",
+    "Social",
+    "Updates",
+    "Spam",
+    "Forums"
+  ],
+  "dropped": [
+    "Verify Code"
+  ],
+  "mapping": {
+    "social_media": "Social",
+    "forum": "Forums"
+  }
+}

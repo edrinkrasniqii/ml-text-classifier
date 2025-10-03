@@ -1,0 +1,11 @@
+=== DATASET OVERVIEW (train_clean.csv) ===
+Total rows: 8980
+Number of classes: 5
+Text length (words): min=9, mean=17.6, median=17.0, max=219
+
+Per-class counts and percentages:
+  Forums     : 1800  (20.0%)
+  Promotions : 1796  (20.0%)
+  Social     : 1796  (20.0%)
+  Spam       : 1794  (20.0%)
+  Updates    : 1794  (20.0%)

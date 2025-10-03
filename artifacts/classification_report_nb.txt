@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      Forums       0.98      0.99      0.98       450
+  Promotions       0.99      0.99      0.99       449
+      Social       0.99      0.99      0.99       449
+        Spam       0.99      0.99      0.99       449
+     Updates       0.99      0.98      0.99       449
+
+    accuracy                           0.99      2246
+   macro avg       0.99      0.99      0.99      2246
+weighted avg       0.99      0.99      0.99      2246

@@ -1,0 +1,6 @@
+metric,logreg,naive_bayes
+Model,TFIDF + LogisticRegression,TFIDF + MultinomialNB
+Accuracy,0.9920,0.9880
+Precision (macro),0.9920,0.9880
+Recall (macro),0.9920,0.9880
+F1 (macro),0.9920,0.9880

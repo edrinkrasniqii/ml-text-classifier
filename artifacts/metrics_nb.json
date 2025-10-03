@@ -1,0 +1,14 @@
+{
+  "model": "TFIDF + MultinomialNB",
+  "accuracy": 0.9879786286731967,
+  "precision_macro": 0.9880082373757485,
+  "recall_macro": 0.9879792130660728,
+  "f1_macro": 0.987984457528562,
+  "labels": [
+    "Forums",
+    "Promotions",
+    "Social",
+    "Spam",
+    "Updates"
+  ]
+}
